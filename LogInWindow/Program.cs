@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LogInWindow
+namespace GUIFormsDemo
 {
     static class Program
     {

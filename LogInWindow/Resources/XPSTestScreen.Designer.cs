@@ -1,4 +1,4 @@
-﻿namespace LogInWindow.Resources
+﻿namespace GUIFormsDemo.Resources
 {
     partial class XPSTestScreen
     {

@@ -7,8 +7,8 @@
     <ProjectGuid>{25F42A78-1831-403D-9898-F6FE9F531BFE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LogInWindow</RootNamespace>
-    <AssemblyName>LogInWindow</AssemblyName>
+    <RootNamespace>GUIFormsDemo</RootNamespace>
+    <AssemblyName>GUIFormsDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

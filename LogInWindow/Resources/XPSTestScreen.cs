@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LogInWindow.Resources
+namespace GUIFormsDemo.Resources
 {
     public partial class XPSTestScreen : UserControl
     {

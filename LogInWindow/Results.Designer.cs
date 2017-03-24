@@ -1,4 +1,4 @@
-﻿namespace LogInWindow
+﻿namespace GUIFormsDemo
 {
     partial class Results
     {
@@ -316,7 +316,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::LogInWindow.Properties.Resources.chart3;
+            this.pictureBox5.Image = global::GUIFormsDemo.Properties.Resources.chart3;
             this.pictureBox5.Location = new System.Drawing.Point(326, 123);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(143, 141);
@@ -326,7 +326,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::LogInWindow.Properties.Resources.logo__2_;
+            this.pictureBox3.Image = global::GUIFormsDemo.Properties.Resources.logo__2_;
             this.pictureBox3.Location = new System.Drawing.Point(694, 25);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(91, 90);
@@ -336,7 +336,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::LogInWindow.Properties.Resources.attempted;
+            this.pictureBox4.Image = global::GUIFormsDemo.Properties.Resources.attempted;
             this.pictureBox4.Location = new System.Drawing.Point(287, 372);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(63, 41);
@@ -346,7 +346,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::LogInWindow.Properties.Resources.Incorrect;
+            this.pictureBox2.Image = global::GUIFormsDemo.Properties.Resources.Incorrect;
             this.pictureBox2.Location = new System.Drawing.Point(287, 323);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(63, 41);
@@ -357,7 +357,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::LogInWindow.Properties.Resources.Correct;
+            this.pictureBox1.Image = global::GUIFormsDemo.Properties.Resources.Correct;
             this.pictureBox1.Location = new System.Drawing.Point(287, 270);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(63, 41);

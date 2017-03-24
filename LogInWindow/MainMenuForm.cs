@@ -1,4 +1,4 @@
-﻿using LogInWindow.Properties;
+﻿using GUIFormsDemo.Properties;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LogInWindow
+namespace GUIFormsDemo
 {
     public partial class MainMenuForm : Form
     {
