@@ -27,3 +27,16 @@ C:\Users\Raul\Desktop\GUIFormsDemo\LogInWindow\bin\Debug\GUIFormsDemo.pdb
 C:\Users\Raul\Desktop\GUIFormsDemo\LogInWindow\obj\Debug\GUIFormsDemo.Properties.Resources.resources
 C:\Users\Raul\Desktop\GUIFormsDemo\LogInWindow\obj\Debug\GUIFormsDemo.exe
 C:\Users\Raul\Desktop\GUIFormsDemo\LogInWindow\obj\Debug\GUIFormsDemo.pdb
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\bin\Debug\GUIFormsDemo.exe.config
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.exe
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.pdb
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\bin\Debug\GUIFormsDemo.exe
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\bin\Debug\GUIFormsDemo.pdb
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.ExamForm.resources
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.LogInForm.resources
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.MainMenuForm.resources
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.Properties.Resources.resources
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.Resources.XPSTestScreen.resources
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.Results.resources
+C:\Users\Mason\Desktop\XPS\XPS\LogInWindow\obj\Debug\GUIFormsDemo.csproj.GenerateResource.Cache
