@@ -1,4 +1,4 @@
-﻿namespace GUIFormsDemo.Resources
+﻿namespace XPS.Resources
 {
     partial class XPSTestScreen
     {

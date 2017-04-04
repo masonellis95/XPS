@@ -1,4 +1,4 @@
-﻿namespace GUIFormsDemo
+﻿namespace XPS
 {
     partial class MainMenuForm
     {
@@ -128,7 +128,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::GUIFormsDemo.Properties.Resources.PreptLogoWhite;
+            this.pictureBox2.Image = global::XPS.Properties.Resources.PreptLogoWhite;
             this.pictureBox2.Location = new System.Drawing.Point(36, 18);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(105, 93);

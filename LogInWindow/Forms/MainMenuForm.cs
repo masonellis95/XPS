@@ -1,4 +1,4 @@
-﻿using GUIFormsDemo.Properties;
+﻿using XPS.Properties;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GUIFormsDemo
+namespace XPS
 {
     public partial class MainMenuForm : Form
     {

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GUIFormsDemo.Resources
+namespace XPS.Resources
 {
     public partial class XPSTestScreen : UserControl
     {

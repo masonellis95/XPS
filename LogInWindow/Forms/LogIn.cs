@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GUIFormsDemo
+namespace XPS
 {
     public partial class LogInForm : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace GUIFormsDemo
+﻿namespace XPS
 {
     partial class LogInForm
     {
@@ -113,7 +113,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox2.Image = global::GUIFormsDemo.Properties.Resources.LogoTrans11;
+            this.pictureBox2.Image = global::XPS.Properties.Resources.LogoTrans11;
             this.pictureBox2.Location = new System.Drawing.Point(0, 27);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(125, 117);

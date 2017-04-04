@@ -1,4 +1,4 @@
-﻿namespace GUIFormsDemo
+﻿namespace XPS
 {
     partial class ExamForm
     {
@@ -313,7 +313,7 @@
             // 
             // GreenIcon1
             // 
-            this.GreenIcon1.Image = global::GUIFormsDemo.Properties.Resources._1GreenIcon;
+            this.GreenIcon1.Image = global::XPS.Properties.Resources._1GreenIcon;
             this.GreenIcon1.Location = new System.Drawing.Point(3, 3);
             this.GreenIcon1.Name = "GreenIcon1";
             this.GreenIcon1.Size = new System.Drawing.Size(31, 29);
@@ -324,7 +324,7 @@
             // 
             // GreenIcon20
             // 
-            this.GreenIcon20.Image = global::GUIFormsDemo.Properties.Resources._20GreenIcon;
+            this.GreenIcon20.Image = global::XPS.Properties.Resources._20GreenIcon;
             this.GreenIcon20.Location = new System.Drawing.Point(151, 143);
             this.GreenIcon20.Name = "GreenIcon20";
             this.GreenIcon20.Size = new System.Drawing.Size(31, 29);
@@ -335,7 +335,7 @@
             // 
             // GreyIcon2
             // 
-            this.GreyIcon2.Image = global::GUIFormsDemo.Properties.Resources._2GreyIcon;
+            this.GreyIcon2.Image = global::XPS.Properties.Resources._2GreyIcon;
             this.GreyIcon2.Location = new System.Drawing.Point(43, 3);
             this.GreyIcon2.Name = "GreyIcon2";
             this.GreyIcon2.Size = new System.Drawing.Size(31, 29);
@@ -345,7 +345,7 @@
             // 
             // GreyIcon30
             // 
-            this.GreyIcon30.Image = global::GUIFormsDemo.Properties.Resources._30GreyIcon;
+            this.GreyIcon30.Image = global::XPS.Properties.Resources._30GreyIcon;
             this.GreyIcon30.Location = new System.Drawing.Point(151, 234);
             this.GreyIcon30.Name = "GreyIcon30";
             this.GreyIcon30.Size = new System.Drawing.Size(31, 29);
@@ -355,7 +355,7 @@
             // 
             // GreyIcon12
             // 
-            this.GreyIcon12.Image = global::GUIFormsDemo.Properties.Resources._12GreyIcon;
+            this.GreyIcon12.Image = global::XPS.Properties.Resources._12GreyIcon;
             this.GreyIcon12.Location = new System.Drawing.Point(40, 95);
             this.GreyIcon12.Name = "GreyIcon12";
             this.GreyIcon12.Size = new System.Drawing.Size(31, 29);
@@ -365,7 +365,7 @@
             // 
             // GreenIcon6
             // 
-            this.GreenIcon6.Image = global::GUIFormsDemo.Properties.Resources._6GreenIcon;
+            this.GreenIcon6.Image = global::XPS.Properties.Resources._6GreenIcon;
             this.GreenIcon6.Location = new System.Drawing.Point(3, 49);
             this.GreenIcon6.Name = "GreenIcon6";
             this.GreenIcon6.Size = new System.Drawing.Size(31, 29);
@@ -376,7 +376,7 @@
             // 
             // GreyIcon7
             // 
-            this.GreyIcon7.Image = global::GUIFormsDemo.Properties.Resources._7GreyIcon;
+            this.GreyIcon7.Image = global::XPS.Properties.Resources._7GreyIcon;
             this.GreyIcon7.Location = new System.Drawing.Point(40, 49);
             this.GreyIcon7.Name = "GreyIcon7";
             this.GreyIcon7.Size = new System.Drawing.Size(31, 29);
@@ -386,7 +386,7 @@
             // 
             // GreyIcon1
             // 
-            this.GreyIcon1.Image = global::GUIFormsDemo.Properties.Resources._1GreyIcon;
+            this.GreyIcon1.Image = global::XPS.Properties.Resources._1GreyIcon;
             this.GreyIcon1.Location = new System.Drawing.Point(3, 3);
             this.GreyIcon1.Name = "GreyIcon1";
             this.GreyIcon1.Size = new System.Drawing.Size(31, 29);
@@ -396,7 +396,7 @@
             // 
             // GreenIcon24
             // 
-            this.GreenIcon24.Image = global::GUIFormsDemo.Properties.Resources._24GreenIcon;
+            this.GreenIcon24.Image = global::XPS.Properties.Resources._24GreenIcon;
             this.GreenIcon24.Location = new System.Drawing.Point(114, 189);
             this.GreenIcon24.Name = "GreenIcon24";
             this.GreenIcon24.Size = new System.Drawing.Size(31, 29);
@@ -407,7 +407,7 @@
             // 
             // GreenIcon7
             // 
-            this.GreenIcon7.Image = global::GUIFormsDemo.Properties.Resources._7GreenIcon;
+            this.GreenIcon7.Image = global::XPS.Properties.Resources._7GreenIcon;
             this.GreenIcon7.Location = new System.Drawing.Point(40, 49);
             this.GreenIcon7.Name = "GreenIcon7";
             this.GreenIcon7.Size = new System.Drawing.Size(31, 29);
@@ -418,7 +418,7 @@
             // 
             // GreyIcon8
             // 
-            this.GreyIcon8.Image = global::GUIFormsDemo.Properties.Resources._8GreyIcon;
+            this.GreyIcon8.Image = global::XPS.Properties.Resources._8GreyIcon;
             this.GreyIcon8.Location = new System.Drawing.Point(77, 49);
             this.GreyIcon8.Name = "GreyIcon8";
             this.GreyIcon8.Size = new System.Drawing.Size(31, 29);
@@ -428,7 +428,7 @@
             // 
             // GreenIcon23
             // 
-            this.GreenIcon23.Image = global::GUIFormsDemo.Properties.Resources._23GreenIcon;
+            this.GreenIcon23.Image = global::XPS.Properties.Resources._23GreenIcon;
             this.GreenIcon23.Location = new System.Drawing.Point(77, 189);
             this.GreenIcon23.Name = "GreenIcon23";
             this.GreenIcon23.Size = new System.Drawing.Size(31, 29);
@@ -439,7 +439,7 @@
             // 
             // GreenIcon5
             // 
-            this.GreenIcon5.Image = global::GUIFormsDemo.Properties.Resources._5GreenIcon;
+            this.GreenIcon5.Image = global::XPS.Properties.Resources._5GreenIcon;
             this.GreenIcon5.Location = new System.Drawing.Point(154, 3);
             this.GreenIcon5.Name = "GreenIcon5";
             this.GreenIcon5.Size = new System.Drawing.Size(31, 29);
@@ -450,7 +450,7 @@
             // 
             // GreyIcon16
             // 
-            this.GreyIcon16.Image = global::GUIFormsDemo.Properties.Resources._16GreyIcon;
+            this.GreyIcon16.Image = global::XPS.Properties.Resources._16GreyIcon;
             this.GreyIcon16.Location = new System.Drawing.Point(3, 143);
             this.GreyIcon16.Name = "GreyIcon16";
             this.GreyIcon16.Size = new System.Drawing.Size(31, 29);
@@ -460,7 +460,7 @@
             // 
             // GreyIcon5
             // 
-            this.GreyIcon5.Image = global::GUIFormsDemo.Properties.Resources._5GreyIcon;
+            this.GreyIcon5.Image = global::XPS.Properties.Resources._5GreyIcon;
             this.GreyIcon5.Location = new System.Drawing.Point(154, 3);
             this.GreyIcon5.Name = "GreyIcon5";
             this.GreyIcon5.Size = new System.Drawing.Size(31, 29);
@@ -470,7 +470,7 @@
             // 
             // GreenIcon22
             // 
-            this.GreenIcon22.Image = global::GUIFormsDemo.Properties.Resources._22GreenIcon;
+            this.GreenIcon22.Image = global::XPS.Properties.Resources._22GreenIcon;
             this.GreenIcon22.Location = new System.Drawing.Point(40, 189);
             this.GreenIcon22.Name = "GreenIcon22";
             this.GreenIcon22.Size = new System.Drawing.Size(31, 29);
@@ -481,7 +481,7 @@
             // 
             // GreenIcon30
             // 
-            this.GreenIcon30.Image = global::GUIFormsDemo.Properties.Resources._30GreenIcon;
+            this.GreenIcon30.Image = global::XPS.Properties.Resources._30GreenIcon;
             this.GreenIcon30.Location = new System.Drawing.Point(151, 234);
             this.GreenIcon30.Name = "GreenIcon30";
             this.GreenIcon30.Size = new System.Drawing.Size(31, 29);
@@ -492,7 +492,7 @@
             // 
             // GreyIcon11
             // 
-            this.GreyIcon11.Image = global::GUIFormsDemo.Properties.Resources._11GreyIcon;
+            this.GreyIcon11.Image = global::XPS.Properties.Resources._11GreyIcon;
             this.GreyIcon11.Location = new System.Drawing.Point(3, 95);
             this.GreyIcon11.Name = "GreyIcon11";
             this.GreyIcon11.Size = new System.Drawing.Size(31, 29);
@@ -502,7 +502,7 @@
             // 
             // GreyIcon25
             // 
-            this.GreyIcon25.Image = global::GUIFormsDemo.Properties.Resources._25GreyIcon;
+            this.GreyIcon25.Image = global::XPS.Properties.Resources._25GreyIcon;
             this.GreyIcon25.Location = new System.Drawing.Point(151, 189);
             this.GreyIcon25.Name = "GreyIcon25";
             this.GreyIcon25.Size = new System.Drawing.Size(31, 29);
@@ -512,7 +512,7 @@
             // 
             // GreenIcon25
             // 
-            this.GreenIcon25.Image = global::GUIFormsDemo.Properties.Resources._25GreenIcon;
+            this.GreenIcon25.Image = global::XPS.Properties.Resources._25GreenIcon;
             this.GreenIcon25.Location = new System.Drawing.Point(151, 189);
             this.GreenIcon25.Name = "GreenIcon25";
             this.GreenIcon25.Size = new System.Drawing.Size(31, 29);
@@ -523,7 +523,7 @@
             // 
             // GreenIcon8
             // 
-            this.GreenIcon8.Image = global::GUIFormsDemo.Properties.Resources._8GreenIcon;
+            this.GreenIcon8.Image = global::XPS.Properties.Resources._8GreenIcon;
             this.GreenIcon8.Location = new System.Drawing.Point(77, 49);
             this.GreenIcon8.Name = "GreenIcon8";
             this.GreenIcon8.Size = new System.Drawing.Size(31, 29);
@@ -534,7 +534,7 @@
             // 
             // GreyIcon6
             // 
-            this.GreyIcon6.Image = global::GUIFormsDemo.Properties.Resources._6GreyIcon;
+            this.GreyIcon6.Image = global::XPS.Properties.Resources._6GreyIcon;
             this.GreyIcon6.Location = new System.Drawing.Point(3, 49);
             this.GreyIcon6.Name = "GreyIcon6";
             this.GreyIcon6.Size = new System.Drawing.Size(31, 29);
@@ -544,7 +544,7 @@
             // 
             // GreyIcon10
             // 
-            this.GreyIcon10.Image = global::GUIFormsDemo.Properties.Resources._10GreyIcon;
+            this.GreyIcon10.Image = global::XPS.Properties.Resources._10GreyIcon;
             this.GreyIcon10.Location = new System.Drawing.Point(151, 49);
             this.GreyIcon10.Name = "GreyIcon10";
             this.GreyIcon10.Size = new System.Drawing.Size(31, 29);
@@ -554,7 +554,7 @@
             // 
             // GreenIcon21
             // 
-            this.GreenIcon21.Image = global::GUIFormsDemo.Properties.Resources._21GreenIcon;
+            this.GreenIcon21.Image = global::XPS.Properties.Resources._21GreenIcon;
             this.GreenIcon21.Location = new System.Drawing.Point(3, 189);
             this.GreenIcon21.Name = "GreenIcon21";
             this.GreenIcon21.Size = new System.Drawing.Size(31, 29);
@@ -565,7 +565,7 @@
             // 
             // GreenIcon4
             // 
-            this.GreenIcon4.Image = global::GUIFormsDemo.Properties.Resources._4GreenIcon;
+            this.GreenIcon4.Image = global::XPS.Properties.Resources._4GreenIcon;
             this.GreenIcon4.Location = new System.Drawing.Point(117, 3);
             this.GreenIcon4.Name = "GreenIcon4";
             this.GreenIcon4.Size = new System.Drawing.Size(31, 29);
@@ -576,7 +576,7 @@
             // 
             // GreyIcon13
             // 
-            this.GreyIcon13.Image = global::GUIFormsDemo.Properties.Resources._13GreyIcon;
+            this.GreyIcon13.Image = global::XPS.Properties.Resources._13GreyIcon;
             this.GreyIcon13.Location = new System.Drawing.Point(77, 95);
             this.GreyIcon13.Name = "GreyIcon13";
             this.GreyIcon13.Size = new System.Drawing.Size(31, 29);
@@ -586,7 +586,7 @@
             // 
             // GreyIcon4
             // 
-            this.GreyIcon4.Image = global::GUIFormsDemo.Properties.Resources._4GreyIcon;
+            this.GreyIcon4.Image = global::XPS.Properties.Resources._4GreyIcon;
             this.GreyIcon4.Location = new System.Drawing.Point(117, 3);
             this.GreyIcon4.Name = "GreyIcon4";
             this.GreyIcon4.Size = new System.Drawing.Size(31, 29);
@@ -596,7 +596,7 @@
             // 
             // GreenIcon19
             // 
-            this.GreenIcon19.Image = global::GUIFormsDemo.Properties.Resources._19GreenIcon;
+            this.GreenIcon19.Image = global::XPS.Properties.Resources._19GreenIcon;
             this.GreenIcon19.Location = new System.Drawing.Point(114, 143);
             this.GreenIcon19.Name = "GreenIcon19";
             this.GreenIcon19.Size = new System.Drawing.Size(31, 29);
@@ -607,7 +607,7 @@
             // 
             // GreenIcon29
             // 
-            this.GreenIcon29.Image = global::GUIFormsDemo.Properties.Resources._29GreenIcon;
+            this.GreenIcon29.Image = global::XPS.Properties.Resources._29GreenIcon;
             this.GreenIcon29.Location = new System.Drawing.Point(114, 234);
             this.GreenIcon29.Name = "GreenIcon29";
             this.GreenIcon29.Size = new System.Drawing.Size(31, 29);
@@ -618,7 +618,7 @@
             // 
             // GreyIcon18
             // 
-            this.GreyIcon18.Image = global::GUIFormsDemo.Properties.Resources._18GreyIcon;
+            this.GreyIcon18.Image = global::XPS.Properties.Resources._18GreyIcon;
             this.GreyIcon18.Location = new System.Drawing.Point(77, 143);
             this.GreyIcon18.Name = "GreyIcon18";
             this.GreyIcon18.Size = new System.Drawing.Size(31, 29);
@@ -628,7 +628,7 @@
             // 
             // GreyIcon20
             // 
-            this.GreyIcon20.Image = global::GUIFormsDemo.Properties.Resources._20GreyIcon;
+            this.GreyIcon20.Image = global::XPS.Properties.Resources._20GreyIcon;
             this.GreyIcon20.Location = new System.Drawing.Point(151, 143);
             this.GreyIcon20.Name = "GreyIcon20";
             this.GreyIcon20.Size = new System.Drawing.Size(31, 29);
@@ -638,7 +638,7 @@
             // 
             // GreenIcon26
             // 
-            this.GreenIcon26.Image = global::GUIFormsDemo.Properties.Resources._26GreenIcon;
+            this.GreenIcon26.Image = global::XPS.Properties.Resources._26GreenIcon;
             this.GreenIcon26.Location = new System.Drawing.Point(3, 234);
             this.GreenIcon26.Name = "GreenIcon26";
             this.GreenIcon26.Size = new System.Drawing.Size(31, 29);
@@ -649,7 +649,7 @@
             // 
             // GreenIcon9
             // 
-            this.GreenIcon9.Image = global::GUIFormsDemo.Properties.Resources._9GreenIcon;
+            this.GreenIcon9.Image = global::XPS.Properties.Resources._9GreenIcon;
             this.GreenIcon9.Location = new System.Drawing.Point(114, 49);
             this.GreenIcon9.Name = "GreenIcon9";
             this.GreenIcon9.Size = new System.Drawing.Size(31, 29);
@@ -660,7 +660,7 @@
             // 
             // GreyIcon17
             // 
-            this.GreyIcon17.Image = global::GUIFormsDemo.Properties.Resources._17GreyIcon;
+            this.GreyIcon17.Image = global::XPS.Properties.Resources._17GreyIcon;
             this.GreyIcon17.Location = new System.Drawing.Point(40, 143);
             this.GreyIcon17.Name = "GreyIcon17";
             this.GreyIcon17.Size = new System.Drawing.Size(31, 29);
@@ -670,7 +670,7 @@
             // 
             // GreyIcon15
             // 
-            this.GreyIcon15.Image = global::GUIFormsDemo.Properties.Resources._15GreyIcon;
+            this.GreyIcon15.Image = global::XPS.Properties.Resources._15GreyIcon;
             this.GreyIcon15.Location = new System.Drawing.Point(151, 95);
             this.GreyIcon15.Name = "GreyIcon15";
             this.GreyIcon15.Size = new System.Drawing.Size(31, 29);
@@ -680,7 +680,7 @@
             // 
             // GreenIcon18
             // 
-            this.GreenIcon18.Image = global::GUIFormsDemo.Properties.Resources._18GreenIcon;
+            this.GreenIcon18.Image = global::XPS.Properties.Resources._18GreenIcon;
             this.GreenIcon18.Location = new System.Drawing.Point(77, 143);
             this.GreenIcon18.Name = "GreenIcon18";
             this.GreenIcon18.Size = new System.Drawing.Size(31, 29);
@@ -691,7 +691,7 @@
             // 
             // GreenIcon10
             // 
-            this.GreenIcon10.Image = global::GUIFormsDemo.Properties.Resources._10GreenIcon;
+            this.GreenIcon10.Image = global::XPS.Properties.Resources._10GreenIcon;
             this.GreenIcon10.Location = new System.Drawing.Point(151, 49);
             this.GreenIcon10.Name = "GreenIcon10";
             this.GreenIcon10.Size = new System.Drawing.Size(31, 29);
@@ -702,7 +702,7 @@
             // 
             // GreyIcon19
             // 
-            this.GreyIcon19.Image = global::GUIFormsDemo.Properties.Resources._19GreyIcon;
+            this.GreyIcon19.Image = global::XPS.Properties.Resources._19GreyIcon;
             this.GreyIcon19.Location = new System.Drawing.Point(114, 143);
             this.GreyIcon19.Name = "GreyIcon19";
             this.GreyIcon19.Size = new System.Drawing.Size(31, 29);
@@ -712,7 +712,7 @@
             // 
             // GreyIcon22
             // 
-            this.GreyIcon22.Image = global::GUIFormsDemo.Properties.Resources._22GreyIcon;
+            this.GreyIcon22.Image = global::XPS.Properties.Resources._22GreyIcon;
             this.GreyIcon22.Location = new System.Drawing.Point(40, 189);
             this.GreyIcon22.Name = "GreyIcon22";
             this.GreyIcon22.Size = new System.Drawing.Size(31, 29);
@@ -722,7 +722,7 @@
             // 
             // GreenIcon17
             // 
-            this.GreenIcon17.Image = global::GUIFormsDemo.Properties.Resources._17GreenIcon;
+            this.GreenIcon17.Image = global::XPS.Properties.Resources._17GreenIcon;
             this.GreenIcon17.Location = new System.Drawing.Point(40, 143);
             this.GreenIcon17.Name = "GreenIcon17";
             this.GreenIcon17.Size = new System.Drawing.Size(31, 29);
@@ -733,7 +733,7 @@
             // 
             // GreenIcon28
             // 
-            this.GreenIcon28.Image = global::GUIFormsDemo.Properties.Resources._28GreenIcon;
+            this.GreenIcon28.Image = global::XPS.Properties.Resources._28GreenIcon;
             this.GreenIcon28.Location = new System.Drawing.Point(77, 234);
             this.GreenIcon28.Name = "GreenIcon28";
             this.GreenIcon28.Size = new System.Drawing.Size(31, 29);
@@ -744,7 +744,7 @@
             // 
             // GreyIcon3
             // 
-            this.GreyIcon3.Image = global::GUIFormsDemo.Properties.Resources._3GreyIcon;
+            this.GreyIcon3.Image = global::XPS.Properties.Resources._3GreyIcon;
             this.GreyIcon3.Location = new System.Drawing.Point(80, 3);
             this.GreyIcon3.Name = "GreyIcon3";
             this.GreyIcon3.Size = new System.Drawing.Size(31, 29);
@@ -754,7 +754,7 @@
             // 
             // GreyIcon26
             // 
-            this.GreyIcon26.Image = global::GUIFormsDemo.Properties.Resources._26GreyIcon;
+            this.GreyIcon26.Image = global::XPS.Properties.Resources._26GreyIcon;
             this.GreyIcon26.Location = new System.Drawing.Point(3, 234);
             this.GreyIcon26.Name = "GreyIcon26";
             this.GreyIcon26.Size = new System.Drawing.Size(31, 29);
@@ -764,7 +764,7 @@
             // 
             // GreenIcon3
             // 
-            this.GreenIcon3.Image = global::GUIFormsDemo.Properties.Resources._3GreenIcon;
+            this.GreenIcon3.Image = global::XPS.Properties.Resources._3GreenIcon;
             this.GreenIcon3.Location = new System.Drawing.Point(80, 3);
             this.GreenIcon3.Name = "GreenIcon3";
             this.GreenIcon3.Size = new System.Drawing.Size(31, 29);
@@ -775,7 +775,7 @@
             // 
             // GreenIcon11
             // 
-            this.GreenIcon11.Image = global::GUIFormsDemo.Properties.Resources._11GreenIcon;
+            this.GreenIcon11.Image = global::XPS.Properties.Resources._11GreenIcon;
             this.GreenIcon11.Location = new System.Drawing.Point(3, 95);
             this.GreenIcon11.Name = "GreenIcon11";
             this.GreenIcon11.Size = new System.Drawing.Size(31, 29);
@@ -786,7 +786,7 @@
             // 
             // GreyIcon14
             // 
-            this.GreyIcon14.Image = global::GUIFormsDemo.Properties.Resources._14GreyIcon;
+            this.GreyIcon14.Image = global::XPS.Properties.Resources._14GreyIcon;
             this.GreyIcon14.Location = new System.Drawing.Point(114, 95);
             this.GreyIcon14.Name = "GreyIcon14";
             this.GreyIcon14.Size = new System.Drawing.Size(31, 29);
@@ -796,7 +796,7 @@
             // 
             // GreyIcon27
             // 
-            this.GreyIcon27.Image = global::GUIFormsDemo.Properties.Resources._27GreyIcon;
+            this.GreyIcon27.Image = global::XPS.Properties.Resources._27GreyIcon;
             this.GreyIcon27.Location = new System.Drawing.Point(40, 234);
             this.GreyIcon27.Name = "GreyIcon27";
             this.GreyIcon27.Size = new System.Drawing.Size(31, 29);
@@ -806,7 +806,7 @@
             // 
             // GreenIcon16
             // 
-            this.GreenIcon16.Image = global::GUIFormsDemo.Properties.Resources._16GreenIcon;
+            this.GreenIcon16.Image = global::XPS.Properties.Resources._16GreenIcon;
             this.GreenIcon16.Location = new System.Drawing.Point(3, 143);
             this.GreenIcon16.Name = "GreenIcon16";
             this.GreenIcon16.Size = new System.Drawing.Size(31, 29);
@@ -817,7 +817,7 @@
             // 
             // GreenIcon12
             // 
-            this.GreenIcon12.Image = global::GUIFormsDemo.Properties.Resources._12GreenIcon;
+            this.GreenIcon12.Image = global::XPS.Properties.Resources._12GreenIcon;
             this.GreenIcon12.Location = new System.Drawing.Point(40, 95);
             this.GreenIcon12.Name = "GreenIcon12";
             this.GreenIcon12.Size = new System.Drawing.Size(31, 29);
@@ -828,7 +828,7 @@
             // 
             // GreyIcon29
             // 
-            this.GreyIcon29.Image = global::GUIFormsDemo.Properties.Resources._29GreyIcon;
+            this.GreyIcon29.Image = global::XPS.Properties.Resources._29GreyIcon;
             this.GreyIcon29.Location = new System.Drawing.Point(114, 234);
             this.GreyIcon29.Name = "GreyIcon29";
             this.GreyIcon29.Size = new System.Drawing.Size(31, 29);
@@ -838,7 +838,7 @@
             // 
             // GreyIcon23
             // 
-            this.GreyIcon23.Image = global::GUIFormsDemo.Properties.Resources._23GreyIcon;
+            this.GreyIcon23.Image = global::XPS.Properties.Resources._23GreyIcon;
             this.GreyIcon23.Location = new System.Drawing.Point(77, 189);
             this.GreyIcon23.Name = "GreyIcon23";
             this.GreyIcon23.Size = new System.Drawing.Size(31, 29);
@@ -848,7 +848,7 @@
             // 
             // GreenIcon15
             // 
-            this.GreenIcon15.Image = global::GUIFormsDemo.Properties.Resources._15GreenIcon;
+            this.GreenIcon15.Image = global::XPS.Properties.Resources._15GreenIcon;
             this.GreenIcon15.Location = new System.Drawing.Point(151, 95);
             this.GreenIcon15.Name = "GreenIcon15";
             this.GreenIcon15.Size = new System.Drawing.Size(31, 29);
@@ -859,7 +859,7 @@
             // 
             // GreenIcon27
             // 
-            this.GreenIcon27.Image = global::GUIFormsDemo.Properties.Resources._27GreenIcon;
+            this.GreenIcon27.Image = global::XPS.Properties.Resources._27GreenIcon;
             this.GreenIcon27.Location = new System.Drawing.Point(40, 234);
             this.GreenIcon27.Name = "GreenIcon27";
             this.GreenIcon27.Size = new System.Drawing.Size(31, 29);
@@ -870,7 +870,7 @@
             // 
             // GreyIcon9
             // 
-            this.GreyIcon9.Image = global::GUIFormsDemo.Properties.Resources._9GreyIcon;
+            this.GreyIcon9.Image = global::XPS.Properties.Resources._9GreyIcon;
             this.GreyIcon9.Location = new System.Drawing.Point(114, 49);
             this.GreyIcon9.Name = "GreyIcon9";
             this.GreyIcon9.Size = new System.Drawing.Size(31, 29);
@@ -880,7 +880,7 @@
             // 
             // GreyIcon24
             // 
-            this.GreyIcon24.Image = global::GUIFormsDemo.Properties.Resources._24GreyIcon;
+            this.GreyIcon24.Image = global::XPS.Properties.Resources._24GreyIcon;
             this.GreyIcon24.Location = new System.Drawing.Point(114, 189);
             this.GreyIcon24.Name = "GreyIcon24";
             this.GreyIcon24.Size = new System.Drawing.Size(31, 29);
@@ -890,7 +890,7 @@
             // 
             // GreenIcon2
             // 
-            this.GreenIcon2.Image = global::GUIFormsDemo.Properties.Resources._2GreenIcon;
+            this.GreenIcon2.Image = global::XPS.Properties.Resources._2GreenIcon;
             this.GreenIcon2.Location = new System.Drawing.Point(43, 3);
             this.GreenIcon2.Name = "GreenIcon2";
             this.GreenIcon2.Size = new System.Drawing.Size(31, 29);
@@ -901,7 +901,7 @@
             // 
             // GreenIcon13
             // 
-            this.GreenIcon13.Image = global::GUIFormsDemo.Properties.Resources._13GreenIcon;
+            this.GreenIcon13.Image = global::XPS.Properties.Resources._13GreenIcon;
             this.GreenIcon13.Location = new System.Drawing.Point(77, 95);
             this.GreenIcon13.Name = "GreenIcon13";
             this.GreenIcon13.Size = new System.Drawing.Size(31, 29);
@@ -912,7 +912,7 @@
             // 
             // GreyIcon21
             // 
-            this.GreyIcon21.Image = global::GUIFormsDemo.Properties.Resources._21GreyIcon;
+            this.GreyIcon21.Image = global::XPS.Properties.Resources._21GreyIcon;
             this.GreyIcon21.Location = new System.Drawing.Point(3, 189);
             this.GreyIcon21.Name = "GreyIcon21";
             this.GreyIcon21.Size = new System.Drawing.Size(31, 29);
@@ -922,7 +922,7 @@
             // 
             // GreyIcon28
             // 
-            this.GreyIcon28.Image = global::GUIFormsDemo.Properties.Resources._28GreyIcon;
+            this.GreyIcon28.Image = global::XPS.Properties.Resources._28GreyIcon;
             this.GreyIcon28.Location = new System.Drawing.Point(77, 234);
             this.GreyIcon28.Name = "GreyIcon28";
             this.GreyIcon28.Size = new System.Drawing.Size(31, 29);
@@ -932,7 +932,7 @@
             // 
             // GreenIcon14
             // 
-            this.GreenIcon14.Image = global::GUIFormsDemo.Properties.Resources._14GreenIcon;
+            this.GreenIcon14.Image = global::XPS.Properties.Resources._14GreenIcon;
             this.GreenIcon14.Location = new System.Drawing.Point(114, 95);
             this.GreenIcon14.Name = "GreenIcon14";
             this.GreenIcon14.Size = new System.Drawing.Size(31, 29);
@@ -1397,7 +1397,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::GUIFormsDemo.Properties.Resources.Question5b;
+            this.pictureBox2.Image = global::XPS.Properties.Resources.Question5b;
             this.pictureBox2.Location = new System.Drawing.Point(116, 49);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(306, 92);
@@ -1678,7 +1678,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::GUIFormsDemo.Properties.Resources.greenIcon;
+            this.pictureBox4.Image = global::XPS.Properties.Resources.greenIcon;
             this.pictureBox4.Location = new System.Drawing.Point(35, 472);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(22, 18);
@@ -1688,7 +1688,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::GUIFormsDemo.Properties.Resources.greyIcon;
+            this.pictureBox3.Image = global::XPS.Properties.Resources.greyIcon;
             this.pictureBox3.Location = new System.Drawing.Point(35, 437);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(22, 18);
@@ -1698,7 +1698,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::GUIFormsDemo.Properties.Resources.logo__2_;
+            this.pictureBox1.Image = global::XPS.Properties.Resources.logo__2_;
             this.pictureBox1.Location = new System.Drawing.Point(1078, 25);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(104, 92);
